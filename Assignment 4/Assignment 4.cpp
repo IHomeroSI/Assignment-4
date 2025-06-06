@@ -10,6 +10,8 @@ int main()
     float production = 5.6f;
     
 	std::cout << "Game Production: " << game << " " << production << std::endl;
+	float price = 59.99f;
+	std::cout << "Game Price: " << price << std::endl;
     
 }
 
