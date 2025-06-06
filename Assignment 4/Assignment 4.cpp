@@ -12,6 +12,9 @@ int main()
 	std::cout << "Game Production: " << game << " " << production << std::endl;
 	float price = 59.99f;
 	std::cout << "Game Price: " << price << std::endl;
+	std::cout << "Game Price with tax: " << price * 1.13f << std::endl; 
+
+	
     
 }
 
