@@ -6,6 +6,11 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    int game = 3;
+    float production = 5.6f;
+    
+	std::cout << "Game Production: " << game << " " << production << std::endl;
+    
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
